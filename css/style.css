@@ -74,8 +74,6 @@ a {
 /* Start logo + link */
 .header_container {
     padding: 2rem 1rem;
-    min-height: 100vh;
-    min-height: 100svh;
     background-color: var(--Very-Pale-Cyan);
     background-image: url(../images/bg-hero-mobile.svg);
     background-repeat: no-repeat
