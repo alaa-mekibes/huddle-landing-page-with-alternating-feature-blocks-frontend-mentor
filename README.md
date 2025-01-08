@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-CB3uLSkASi
   
 - Live Site URL: https://alaa-mekibes.github.io/huddle-landing-page-with-alternating-feature-blocks-frontend-mentor
 
