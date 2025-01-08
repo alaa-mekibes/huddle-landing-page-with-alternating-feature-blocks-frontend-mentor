@@ -103,6 +103,7 @@ a {
 @media (min-width: 72.5rem) {
     .header_container {
         padding: 3rem 4rem;
+        background-image: url(../images/bg-hero-desktop.svg)
     }
     .header_container .logo img {
         width: 200px
