@@ -26,13 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](/assets/images/Screenshot.png)
+![](/assets/images/screenshot.png)
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-CB3uLSkASi
+- [Solution URL](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-CB3uLSkASi)
   
-- Live Site URL: https://alaa-mekibes.github.io/huddle-landing-page-with-alternating-feature-blocks-frontend-mentor
+- [Live Site URL](https://alaa-mekibes.github.io/huddle-landing-page-with-alternating-feature-blocks-frontend-mentor)
 
 ## My process
 
